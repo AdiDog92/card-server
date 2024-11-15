@@ -24,7 +24,7 @@
       "price": 9000,
       "priceTotal": 9000
     }
-  ]
+  ],
   "items": [
     {
     "id": 1,
@@ -104,5 +104,6 @@
     "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/578.jpg",
     "id": "13"
   }
-  ]
+  ],
+  "cart": [],
 }
